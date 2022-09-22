@@ -9,4 +9,3 @@ This repo contains all class codes for week!
 
 Clone the repo,navigate to the directory on the file explorer and double click a .HTML file to open in a browser
 
-The site is deployed at 
